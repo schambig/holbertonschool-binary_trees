@@ -1,6 +1,6 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
 
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/schambig/holbertonschool-binary_trees)
 
 # Binary Trees
@@ -46,7 +46,7 @@ struct binary_tree_s
 typedef struct binary_tree_s binary_tree_t;
 ```
 
-After this project we were able to explain these questions:
+After this project we were able to [explain to anyone](https://fs.blog/feynman-learning-technique/):
 
 * What is a binary tree
 * What is the difference between a binary tree and a Binary Search Tree
@@ -64,6 +64,7 @@ Valuable resources to help you understand this project:
 * [Tree Traversal](https://www.tutorialspoint.com/data_structures_algorithms/tree_traversal.htm)
 * [Binary Search Tree](https://en.wikipedia.org/wiki/Binary_search_tree)
 * [Data structures: Binary Tree](https://www.youtube.com/watch?v=H5JubkIy_p8)
+* [Print function](https://github.com/holbertonschool/0x1C.c)
 
 ## File structure
 
@@ -93,7 +94,8 @@ All these files were compiled on Ubuntu 20.04 LTS using gcc.
 | <pre>[17-binary_tree_sibling.c](17-binary_tree_sibling.c)</pre> | Write a function that finds the sibling of a node |
 | <pre>[18-binary_tree_uncle.c](18-binary_tree_uncle.c)</pre> | Write a function that finds the uncle of a node |
 | <pre>[binary_trees.h](binary_trees.h)</pre> | Contain the structure and prototypes of the project |
-| <pre>[main_files](main_files)</pre> | Contain all the main file that will be used at compilation to test the functions above |
+| <pre>[binary_tree_print.c](binary_tree_print.c)</pre> | Print a binary tree, this function is used only for visualization purposes |
+| <pre>[main_files](main_files)</pre> | Contain all the main files that will be used at compilation to test the functions above |
 | <pre>[output_files](output_files)</pre> | Contain all the executable files generated after compilation |
 
 
@@ -111,10 +113,10 @@ Then, go to the project directory:
 $ cd holbertonschool-binary_trees
 ```
 
-Finally, compile the source code you want:
+Finally, compile the source code you want, using its correspondent main file and the *.c files asked:
 
 ```
-$ gcc -Wall -Wextra -Werror -pedantic -std=gnu89 /PATH/main_files/[MAIN_FILE.c] [FILENAME.c] -o [EXECUTABLE_NAME]
+$ gcc -Wall -Wextra -Werror -pedantic /PATH/main_files/[MAIN_FILE.c] [FILENAME.c] -o [EXECUTABLE_NAME]
 ```
 
 | Flag | Description |
@@ -123,11 +125,11 @@ $ gcc -Wall -Wextra -Werror -pedantic -std=gnu89 /PATH/main_files/[MAIN_FILE.c] 
 | -Wextra | Enable extra warnings that are not enabled by -Wall |
 | -Werror | Convert warnings into error |
 | -pedantic | Issue all warnings demanded by strict ISO C |
-| -std=gnu89 | Determine the language standard, in this case `gnu89` |
+<!-- | -std=gnu89 | Determine the language standard, in this case `gnu89` | -->
 
 ## Authors
 
-| [<img src="https://avatars.githubusercontent.com/u/105623752?v=4" width=90><br><sub> Carlos Cantoral </sub>](https://github.com/Jmel8) |  [<img src="https://avatars.githubusercontent.com/u/98289735?v=4" width=90><br><sub> Salomón Chambi </sub>](https://github.com/schambig) |
+| [<img src="https://avatars.githubusercontent.com/u/105623752?v=4" width=85><br><sub> Carlos Cantoral </sub>](https://github.com/Jmel8) |  [<img src="https://avatars.githubusercontent.com/u/98289735?v=4" width=85><br><sub> Salomón Chambi </sub>](https://github.com/schambig) |
 | :---: | :---: |
 
 <p align="center">
