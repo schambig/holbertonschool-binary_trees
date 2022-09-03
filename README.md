@@ -3,17 +3,25 @@
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 ![GitHub last commit](https://img.shields.io/github/last-commit/schambig/holbertonschool-low_level_programming)
 
-# Search Algorithms
+# Binary Trees
 
-[Description](#description)</a> • [Resources](#resources) • [File Structure](#file-structure) • [Usage](#usage)
+[Description](#description)</a> • [Resources](#resources) • [File Structure](#file-structure) • [Usage](#usage) • [Authors](#authors)
 
 ## Description
 
-Searching Algorithms are designed to check for an element or retrieve an element from any data structure where it is stored. Based on the type of search operation, these algorithms are generally classified into two categories:
+Trees are one of the most fundamental data structures. They are used to store and organize data.
 
-* Sequential Search: In this, the list or array is traversed sequentially and every element is checked. For example: Linear Search.
+A binary tree is a data structure composed of nodes, each of which has at most, two children, referred to as left and right nodes. The tree starts off with a single node known as the root.
 
-* Interval Search: These algorithms are specifically designed for searching in sorted data-structures. These type of searching algorithms are much more efficient than Linear Search as they repeatedly target the center of the search structure and divide the search space in half. For Example: Binary Search.
+Each node in the tree contains the following:
+
+* Data or value of the node
+* Pointer to the left child
+* Pointer to the right child
+
+In case of the root node the pointer parent points to null, and in a leaf node, the pointers to the left and right child point to null
+
+
 
 After this project I was able to explain these questions:
 
@@ -76,6 +84,8 @@ $ gcc -Wall -Wextra -Werror -pedantic -std=gnu89 /PATH/main_files/[MAIN_FILE.c] 
 | -Werror | Convert warnings into error |
 | -pedantic | Issue all warnings demanded by strict ISO C |
 | -std=gnu89 | Determine the language standard, in this case `gnu89` |
+
+## Authors
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
