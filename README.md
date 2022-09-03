@@ -127,7 +127,7 @@ $ gcc -Wall -Wextra -Werror -pedantic -std=gnu89 /PATH/main_files/[MAIN_FILE.c] 
 
 ## Authors
 
-| [<img src="https://avatars.githubusercontent.com/u/105623752?v=4" width=100><br><sub> Carlos Cantoral </sub>](https://github.com/Jmel8) |  [<img src="https://avatars.githubusercontent.com/u/98289735?v=4" width=100><br><sub> Salomón Chambi </sub>](https://github.com/schambig) |
+| [<img src="https://avatars.githubusercontent.com/u/105623752?v=4" width=90><br><sub> Carlos Cantoral </sub>](https://github.com/Jmel8) |  [<img src="https://avatars.githubusercontent.com/u/98289735?v=4" width=90><br><sub> Salomón Chambi </sub>](https://github.com/schambig) |
 | :---: | :---: |
 
 <p align="center">
