@@ -73,25 +73,28 @@ All these files were compiled on Ubuntu 20.04 LTS using gcc.
 
 | Filename | Description/Task |
 | --- | --- |
-| <pre>[]()</pre> |  |
-| <pre>[]()</pre> |  |
-| <pre>[]()</pre> |  |
-| <pre>[]()</pre> |  |
-| <pre>[]()</pre> |  |
-| <pre>[]()</pre> |  |
-| <pre>[]()</pre> |  |
-| <pre>[]()</pre> |  |
-| <pre>[]()</pre> |  |
-| <pre>[]()</pre> |  |
-| <pre>[]()</pre> |  |
-| <pre>[]()</pre> |  |
-| <pre>[]()</pre> |  |
-| <pre>[]()</pre> |  |
-| <pre>[]()</pre> |  |
-| <pre>[]()</pre> |  |
-| <pre>[]()</pre> |  |
-| <pre>[]()</pre> |  |
-| <pre>[]()</pre> |  |
+| <pre>[0-binary_tree_node.c](0-binary_tree_node.c)</pre> | Write a function that creates a binary tree node |
+| <pre>[1-binary_tree_insert_left.c](1-binary_tree_insert_left.c)</pre> | Write a function that inserts a node as the left-child of another node |
+| <pre>[2-binary_tree_insert_right.c](2-binary_tree_insert_right.c)</pre> | Write a function that inserts a node as the right-child of another node |
+| <pre>[3-binary_tree_delete.c](3-binary_tree_delete.c)</pre> | Write a function that deletes an entire binary tree |
+| <pre>[4-binary_tree_is_leaf.c](4-binary_tree_is_leaf.c)</pre> | Write a function that checks if a node is a leaf |
+| <pre>[5-binary_tree_is_root.c](5-binary_tree_is_root.c)</pre> | Write a function that checks if a given node is a root |
+| <pre>[6-binary_tree_preorder.c](6-binary_tree_preorder.c)</pre> | Write a function that goes through a binary tree using pre-order traversal |
+| <pre>[7-binary_tree_inorder.c](7-binary_tree_inorder.c)</pre> | Write a function that goes through a binary tree using in-order traversal |
+| <pre>[8-binary_tree_postorder.c](8-binary_tree_postorder.c)</pre> | Write a function that goes through a binary tree using post-order traversal |
+| <pre>[9-binary_tree_height.c](9-binary_tree_height.c)</pre> | Write a function that measures the height of a binary tree |
+| <pre>[10-binary_tree_depth.c](10-binary_tree_depth.c)</pre> | Write a function that measures the depth of a node in a binary tree |
+| <pre>[11-binary_tree_size.c](11-binary_tree_size.c)</pre> | Write a function that measures the size of a binary tree |
+| <pre>[12-binary_tree_leaves.c](12-binary_tree_leaves.c)</pre> | Write a function that counts the leaves in a binary tree |
+| <pre>[13-binary_tree_nodes.c](13-binary_tree_nodes.c)</pre> | Write a function that counts the nodes with at least 1 child in a binary tree |
+| <pre>[14-binary_tree_balance.c](14-binary_tree_balance.c)</pre> | Write a function that measures the balance factor of a binary tree |
+| <pre>[15-binary_tree_is_full.c](15-binary_tree_is_full.c)</pre> | Write a function that checks if a binary tree is full |
+| <pre>[16-binary_tree_is_perfect.c](16-binary_tree_is_perfect.c)</pre> | Write a function that checks if a binary tree is perfect |
+| <pre>[17-binary_tree_sibling.c](17-binary_tree_sibling.c)</pre> | Write a function that finds the sibling of a node |
+| <pre>[18-binary_tree_uncle.c](18-binary_tree_uncle.c)</pre> | Write a function that finds the uncle of a node |
+| <pre>[binary_trees.h](binary_trees.h)</pre> | Contain the structure and prototypes of the project |
+| <pre>[main_files](main_files)</pre> | Contain all the main file that will be used at compilation to test the functions above |
+| <pre>[output_files](output_files)</pre> | Contain all the executable files generated after compilation |
 
 
 ## Usage
