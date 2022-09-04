@@ -101,7 +101,7 @@ All these files were compiled on Ubuntu 20.04 LTS using gcc.
 
 ## Usage
 
-To try this project, first clone the repository to your machine :
+To try this project in your machine, first clone the repository to your machine :
 
 ```
 $ git clone https://github.com/schambig/holbertonschool-binary_trees.git
