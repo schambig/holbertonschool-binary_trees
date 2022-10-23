@@ -132,6 +132,8 @@ $ gcc -Wall -Wextra -Werror -pedantic /PATH/main_files/[MAIN_FILE.c] [FILENAME.c
 | [<img src="https://avatars.githubusercontent.com/u/105623752?v=4" width=85><br><sub> Carlos Cantoral </sub>](https://github.com/Jmel8) |  [<img src="https://avatars.githubusercontent.com/u/98289735?v=4" width=85><br><sub> Salomón Chambi </sub>](https://github.com/schambig) |
 | :---: | :---: |
 
+[Back to top](#binary-trees)<!--@schambig-->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
